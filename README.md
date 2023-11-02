@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ANAND SUNDARAMOORTHY SA
 - 👀 I’m interested in Full Stack development,App development,Ethical hacking and Cybersecurity,AI 
-- 🌱 I’m currently learning Full Stack development and App development
+- 🌱 I’m currently learning Full Stack development
 - 💞️ I’m am master in silambam 
 <!-- - 📫  -->
 
